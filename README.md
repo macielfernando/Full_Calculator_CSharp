@@ -1,2 +1,2 @@
-# |C# Calculadora#
+# |C# Sharp#
 Projeto Calculadora completa em C#
